@@ -1,0 +1,1 @@
+var app = angular.module("miListaCompras", []); /*Se crea la aplicacion*/
